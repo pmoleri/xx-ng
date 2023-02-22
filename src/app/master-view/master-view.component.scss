@@ -1,0 +1,13 @@
+:host {
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.pie-chart {
+  min-width: 250px;
+  min-height: 250px;
+  flex-grow: 1;
+  flex-basis: 0;
+}
